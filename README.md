@@ -1,17 +1,15 @@
-Minechem IV
+![](http://jakimfett.com/minechem_alchemy_banner.jpg)
+Minechem 5
 =========
 
-Minechem 5 is a mod about chemistry and chemical industry. Originally maintained by LJDP and Rushmead, Minechem 5 is maintained by Pixlepix and Mandrake, With help from open source contributors, and is based off the work of the previous iterations Minechem II, Minechem III and Minechem IV. Split apart materials into their most basic components, then mesh them all together into something new. The possibilities are immense!
+[Minechem](http://www.minechemmod.com/) is a mod about chemistry. Items can be broken down into compounds and base elements using the decomposer. With base elements, a bit of research, and the chemical synthesis machine, you can assemble materials and different compounds. Don't like the base elements you have? Split elements using the Fission reactor, or combine elements using the Fusion reactor.
 
-Minechem can be found at: http://www.minechemmod.com/
+Download the mod from [CurseForge](http://minecraft.curseforge.com/mc-mods/73373-minechem-5/files) or the releases page here on Github.
 
-## License:
-
-> Minechem v4.x is licensed under Creative Commons Attribution-ShareAlike 3.0 Unported. <br />
-The details of the licence can be found at: http://creativecommons.org/licenses/by-sa/3.0/us/
+By default machines will need power when [CoFHCore](http://www.curse.com/mc-mods/minecraft/cofhcore) is installed, this can be turned off in the configs.
 
 ## Contributors and permissions
-The list of contributors can be found here: http://pastebin.com/raw.php?i=LsumDirg
+The list of contributors can be found on the [website](http://www.minechemmod.com/index.php/docs/11-contributors)
 
-## Disclaimer
-This mod contains many street drug jokes, If this offends you. Please do not use this mod.
+## License
+Minechem 5.0.5 and higher are licensed under the [DBaJ (Don't Be a Jerk) non-commercial care-free license](https://github.com/jakimfett/DBaJ).
